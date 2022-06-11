@@ -1,0 +1,16 @@
+{
+  "name": "1",
+  "description": "2",
+  "keywords": [
+    "3"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "0ae33e77-3f96-41b7-882c-12575a128742"
+    }
+  },
+  "website": "https://github.com/Springwithwinter/sunny/",
+  "repository": "https://github.com/Springwithwinter/sunny",
+  "stack": "container"
+}
